@@ -1,0 +1,7 @@
+set terminal postscript enhanced 
+set key left top
+set xlabel "Logrithm of the central density log {/Symbol r}"
+p "density_of_dwarf" u 1:(100*$2) w linespoint pt 2 title "radius of the planet(X100)"
+replot "density_of_dwarf" u 1:3  w  linespoint pt 4 title "mass of the planet"
+set out "m_r_rho.eps"
+replot
