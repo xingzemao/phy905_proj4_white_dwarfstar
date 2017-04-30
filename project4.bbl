@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{computational_dwarf_star}
+Morten Hjorth-Jensen.
+\newblock White dwarf star.
+\newblock
+  \url{https://compphysics.github.io/ComputationalPhysicsMSU/doc/Projects/2017/Project4/WhiteDwarf/pdf/WhiteDwarf.pdf}.
+
+\bibitem{Computational}
+Morten Hjorth-Jensen.
+\newblock Diagonalization and eigenvalue problems.
+\newblock
+  \url{https://compphysics.github.io/ComputationalPhysicsMSU/doc/pub/ode/pdf/ode-beamer.pdf},
+  2017.
+
+\bibitem{white}
+NASA.
+\newblock Objects of interest: White dwarf stars.
+\newblock \url{https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html}.
+
+\end{thebibliography}
